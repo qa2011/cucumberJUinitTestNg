@@ -17,6 +17,8 @@ import com.qa.pages.ProductsPage;
 import com.report.Reporter;
 import com.util.common.TestUtility;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class BaseClass {
 
 	public static WebDriver driver;
@@ -67,7 +69,8 @@ public class BaseClass {
 		
 		String browserName = prop.getProperty("browser");
 		if(browserName.equals("chrome")){
-			System.setProperty("webdriver.chrome.driver", CHROME_DRIVER_PATH);	
+			//System.setProperty("webdriver.chrome.driver", CHROME_DRIVER_PATH);
+			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver(); 
 		}
 		else if(browserName.equals("FF")){

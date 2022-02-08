@@ -1,1 +1,5 @@
 /target/
+/pom.xml
+/TestReport/
+/test-output/
+/src/

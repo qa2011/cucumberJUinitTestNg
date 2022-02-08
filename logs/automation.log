@@ -86,3 +86,123 @@
 ----------------------------------------------------------------
 02/03/2022 15:47:30.716 IST INFO  (report.Reporter:>>>endTestCase:[30]) Execution of Test Case :: *** Test Class Test ending *** has ended
 ----------------------------------------------------------------
+02/04/2022 23:20:38.229 IST INFO  (report.Reporter:>>>startTestCase:[26])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+02/04/2022 23:20:38.643 IST INFO  (report.Reporter:>>>onTestStart:[93]) **************************** Running Test Method feature()  ****************************
+----------------------------------------------------------------
+02/04/2022 23:20:43.464 IST INFO  (report.Reporter:>>>pass:[45]) Get Brower Details
+----------------------------------------------------------------
+02/04/2022 23:20:43.469 IST INFO  (report.Reporter:>>>pass:[45]) WINDOWS
+----------------------------------------------------------------
+02/04/2022 23:20:43.470 IST INFO  (report.Reporter:>>>pass:[45]) 97.0.4692.99
+----------------------------------------------------------------
+02/04/2022 23:20:43.471 IST INFO  (report.Reporter:>>>pass:[45]) OS = WINDOWS, Browser = chrome 97.0.4692.99
+----------------------------------------------------------------
+02/04/2022 23:20:53.886 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Create your account - Place City Council
+----------------------------------------------------------------
+02/04/2022 23:20:57.031 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Create your account - Place City Council
+----------------------------------------------------------------
+02/04/2022 23:20:57.169 IST INFO  (report.Reporter:>>>pass:[45]) Entered Test Data test_csa_user1@yopmail.com
+----------------------------------------------------------------
+02/04/2022 23:20:57.310 IST INFO  (report.Reporter:>>>pass:[45]) Entered password ************ 
+----------------------------------------------------------------
+02/04/2022 23:21:02.580 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Dashboard - Place City Council
+----------------------------------------------------------------
+02/04/2022 23:21:02.585 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Dashboard - Place City Council
+----------------------------------------------------------------
+02/04/2022 23:21:02.628 IST INFO  (report.Reporter:>>>onTestSuccess:[102]) **************************** Executed feature() Test successfully finished ****************************
+----------------------------------------------------------------
+02/04/2022 23:21:02.697 IST INFO  (report.Reporter:>>>endTestCase:[30]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+02/08/2022 12:27:32.211 IST INFO  (report.Reporter:>>>startTestCase:[26])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+02/08/2022 12:27:32.550 IST INFO  (report.Reporter:>>>onTestStart:[93]) **************************** Running Test Method feature()  ****************************
+----------------------------------------------------------------
+02/08/2022 12:27:36.052 IST INFO  (report.Reporter:>>>onTestFailure:[116]) **************************** Test Method feature() successfully finished  ****************************
+----------------------------------------------------------------
+02/08/2022 12:27:36.052 IST ERROR (report.Reporter:>>>onTestFailure:[119]) conclusion  >>>>>  cucumber.runtime.CucumberException: cucumber.runtime.CucumberException: Failed to instantiate class StepsDefs.LoginSteps
+----------------------------------------------------------------
+02/08/2022 12:27:36.129 IST INFO  (report.Reporter:>>>endTestCase:[30]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+02/08/2022 12:28:26.055 IST INFO  (report.Reporter:>>>startTestCase:[26])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+02/08/2022 12:28:26.412 IST INFO  (report.Reporter:>>>onTestStart:[93]) **************************** Running Test Method feature()  ****************************
+----------------------------------------------------------------
+02/08/2022 12:28:28.449 IST INFO  (report.Reporter:>>>onTestFailure:[116]) **************************** Test Method feature() successfully finished  ****************************
+----------------------------------------------------------------
+02/08/2022 12:28:28.450 IST ERROR (report.Reporter:>>>onTestFailure:[119]) conclusion  >>>>>  cucumber.runtime.CucumberException: cucumber.runtime.CucumberException: Failed to instantiate class StepsDefs.LoginSteps
+----------------------------------------------------------------
+02/08/2022 12:28:28.521 IST INFO  (report.Reporter:>>>endTestCase:[30]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+02/08/2022 12:32:45.660 IST INFO  (report.Reporter:>>>startTestCase:[26])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+02/08/2022 12:32:46.492 IST INFO  (report.Reporter:>>>onTestStart:[93]) **************************** Running Test Method feature()  ****************************
+----------------------------------------------------------------
+02/08/2022 12:32:49.738 IST INFO  (report.Reporter:>>>onTestFailure:[116]) **************************** Test Method feature() successfully finished  ****************************
+----------------------------------------------------------------
+02/08/2022 12:32:49.740 IST ERROR (report.Reporter:>>>onTestFailure:[119]) conclusion  >>>>>  cucumber.runtime.CucumberException: cucumber.runtime.CucumberException: Failed to instantiate class StepsDefs.LoginSteps
+----------------------------------------------------------------
+02/08/2022 12:32:49.944 IST INFO  (report.Reporter:>>>endTestCase:[30]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+02/08/2022 12:47:50.010 IST INFO  (report.Reporter:>>>startTestCase:[26])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+02/08/2022 12:47:50.665 IST INFO  (report.Reporter:>>>onTestStart:[93]) **************************** Running Test Method feature()  ****************************
+----------------------------------------------------------------
+02/08/2022 12:47:57.467 IST INFO  (report.Reporter:>>>pass:[45]) Get Brower Details
+----------------------------------------------------------------
+02/08/2022 12:47:57.469 IST INFO  (report.Reporter:>>>pass:[45]) WINDOWS
+----------------------------------------------------------------
+02/08/2022 12:47:57.469 IST INFO  (report.Reporter:>>>pass:[45]) 98.0.4758.82
+----------------------------------------------------------------
+02/08/2022 12:47:57.470 IST INFO  (report.Reporter:>>>pass:[45]) OS = WINDOWS, Browser = chrome 98.0.4758.82
+----------------------------------------------------------------
+02/08/2022 12:49:18.732 IST INFO  (report.Reporter:>>>startTestCase:[26])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+02/08/2022 12:49:19.086 IST INFO  (report.Reporter:>>>onTestStart:[93]) **************************** Running Test Method feature()  ****************************
+----------------------------------------------------------------
+02/08/2022 12:49:23.400 IST INFO  (report.Reporter:>>>pass:[45]) Get Brower Details
+----------------------------------------------------------------
+02/08/2022 12:49:23.406 IST INFO  (report.Reporter:>>>pass:[45]) WINDOWS
+----------------------------------------------------------------
+02/08/2022 12:49:23.408 IST INFO  (report.Reporter:>>>pass:[45]) 98.0.4758.82
+----------------------------------------------------------------
+02/08/2022 12:49:23.409 IST INFO  (report.Reporter:>>>pass:[45]) OS = WINDOWS, Browser = chrome 98.0.4758.82
+----------------------------------------------------------------
+02/08/2022 12:49:35.875 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Create your account - Place City Council
+----------------------------------------------------------------
+02/08/2022 12:49:38.962 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Create your account - Place City Council
+----------------------------------------------------------------
+02/08/2022 12:49:39.418 IST INFO  (report.Reporter:>>>pass:[45]) Entered Test Data test_csa_user1@yopmail.com
+----------------------------------------------------------------
+02/08/2022 12:49:39.731 IST INFO  (report.Reporter:>>>pass:[45]) Entered password ************ 
+----------------------------------------------------------------
+02/08/2022 12:49:45.315 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Dashboard - Place City Council
+----------------------------------------------------------------
+02/08/2022 12:49:45.322 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Dashboard - Place City Council
+----------------------------------------------------------------
+02/08/2022 12:49:45.380 IST INFO  (report.Reporter:>>>onTestSuccess:[102]) **************************** Executed feature() Test successfully finished ****************************
+----------------------------------------------------------------
+02/08/2022 12:49:45.430 IST INFO  (report.Reporter:>>>endTestCase:[30]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+02/08/2022 12:51:01.946 IST INFO  (report.Reporter:>>>pass:[45]) Get Brower Details
+----------------------------------------------------------------
+02/08/2022 12:51:01.955 IST INFO  (report.Reporter:>>>pass:[45]) WINDOWS
+----------------------------------------------------------------
+02/08/2022 12:51:01.955 IST INFO  (report.Reporter:>>>pass:[45]) 98.0.4758.82
+----------------------------------------------------------------
+02/08/2022 12:51:01.955 IST INFO  (report.Reporter:>>>pass:[45]) OS = WINDOWS, Browser = chrome 98.0.4758.82
+----------------------------------------------------------------
+02/08/2022 12:51:10.826 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Create your account - Place City Council
+----------------------------------------------------------------
+02/08/2022 12:51:13.530 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Create your account - Place City Council
+----------------------------------------------------------------
+02/08/2022 12:51:13.670 IST INFO  (report.Reporter:>>>pass:[45]) Entered Test Data test_csa_user1@yopmail.com
+----------------------------------------------------------------
+02/08/2022 12:51:13.808 IST INFO  (report.Reporter:>>>pass:[45]) Entered password ************ 
+----------------------------------------------------------------
+02/08/2022 12:51:14.948 IST INFO  (report.Reporter:>>>pass:[45]) Click on WebElement Sign In
+----------------------------------------------------------------
+02/08/2022 12:51:18.358 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Create your account - Place City Council
+----------------------------------------------------------------
+02/08/2022 12:51:18.365 IST INFO  (report.Reporter:>>>pass:[45]) Get Page title :: Dashboard - Place City Council
+----------------------------------------------------------------

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <parameter name="appURL" value="https://google.com"/>
   <parameter name="browserType" value="chrome"/>
   <listeners>
@@ -11,15 +11,4 @@
       <class name="TestRunners.RunnerTestNg"/>
     </classes>
   </test> <!-- Test -->
-  <test name="Test(failed)">
-    <classes>
-      <class name="TestRunners.RunnerTestNg">
-        <methods>
-          <include name="setUpClass"/>
-          <include name="feature" invocation-numbers="0"/>
-          <include name="tearDownClass"/>
-        </methods>
-      </class> <!-- TestRunners.RunnerTestNg -->
-    </classes>
-  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
